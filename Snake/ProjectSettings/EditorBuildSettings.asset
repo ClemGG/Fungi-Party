@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Pole tech/Scenes/test portage Rasberry.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 27f6beccb1015894d976afc77b52b059
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: da4b6ea563006cc4e89b55d465493845
+  - enabled: 1
+    path: Assets/Scenes/Select1Player.unity
+    guid: 54008fcd0f0295748b760f1c024d0192
+  - enabled: 1
+    path: Assets/Scenes/Select2Players.unity
+    guid: 356ad1f8b013cea46bbef6a4612986fc
+  - enabled: 0
+    path: Assets/Pole tech/Scenes/test grid.unity
+    guid: fa2fd949e2d906e4ca8bd19413f55e8d
+  - enabled: 1
+    path: Assets/Pole tech/Scenes/test grid 1.unity
+    guid: 48f24e4222e0e7540b09b8b39b58948f
+  m_configObjects: {}
